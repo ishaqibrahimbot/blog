@@ -9,13 +9,15 @@
     <h1><%= item.title %></h1>
   <%    if (item.content.length > 100) { %>
   <%      truncatedContent = item.content.slice(0, 100); %>
-  <%    }; %>
+  <%    } %>
     <p><%= truncatedContent %> ...
-      <a href="/posts/<%=item.title%>">Read More</a>
+      <a href="/posts/<%=item._id%>">Read More</a>
     </p>
   <% }); %>
 
 </div>
+
+
 
 
 <%- include("partials/footer") -%>
