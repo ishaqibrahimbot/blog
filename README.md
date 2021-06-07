@@ -2,10 +2,10 @@
 
 Access at: https://ishaq-blog.herokuapp.com/
 
-##Disclaimer
+## Disclaimer
 At the moment you will only find random gibberish and testing material there.
 
-##However
+## However
 I [will] write posts about:
 
 * New things I've learned (in tech or otherwise)
