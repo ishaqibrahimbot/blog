@@ -1,5 +1,7 @@
 # Ishaq's Blog
 
+Access at: https://ishaq-blog.herokuapp.com/
+
 I write posts about:
 
 * New things I've learned (in tech or otherwise)
