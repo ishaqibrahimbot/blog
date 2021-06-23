@@ -6,7 +6,7 @@ Here are the approximate steps I need to take:
 - (DONE)Add a compose button on the home page so that I can directly go to the compose page without having to type in the url
 - (DONE)Connect to my MongoDB Atlas cluster and create a new database for my blog
 - (DONE)The schema for this blog will essentially be "title" "date" and "content"
-- The home page will access this database and populate all the current entries according to date
+- (DONE)The home page will access this database and populate all the current entries according to date
 - (DONE)The compose page will take the input from the form and insert it into the database
 
 
